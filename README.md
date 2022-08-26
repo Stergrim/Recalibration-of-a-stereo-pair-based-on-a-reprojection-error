@@ -20,8 +20,10 @@
 ## Результаты компьютерного моделирования
 
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/3.png" width="300" />
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/3_1.png" width="300" /> 
+<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/3.png" width="800" />
+</p>
+<p float="left">
+<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/3_1.png" width="500" /> 
 </p>
 
 
