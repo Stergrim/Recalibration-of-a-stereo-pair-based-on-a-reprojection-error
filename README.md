@@ -48,15 +48,15 @@
 ## Результаты решения на реальных изображениях
 
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/ExSystem.png" width="800" />
+<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/ExSystem.png" width="600" />
 </p>
 
 
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/Ex1.png" width="800" />
+<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/Ex1.png" width="600" />
 </p>
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/Ex1_1.png" width="600" /> 
+<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/Ex1_1.png" width="800" /> 
 </p>
 
 
