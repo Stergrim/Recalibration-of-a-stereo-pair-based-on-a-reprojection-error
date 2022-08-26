@@ -60,5 +60,23 @@
 </p>
 
 
+
+<p float="left">
+<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/Ex2.png" width="600" />
+</p>
+<p float="left">
+<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/Ex2_1.png" width="800" /> 
+</p>
+
+
+
+<p float="left">
+<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/Ex3.png" width="600" />
+</p>
+<p float="left">
+<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/Ex3_1.png" width="800" /> 
+</p>
+
+
 ## Замечания
 
