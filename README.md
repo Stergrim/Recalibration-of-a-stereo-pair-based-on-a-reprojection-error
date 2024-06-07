@@ -13,37 +13,37 @@
 
 Магистерская работа:<br>
 
-Находится в папке `demos` под названием **DiplomMaster.pdf** <br>
-**Google Disk:** https://drive.google.com/file/d/1KFjnYAO5VP8tIxUtCWhuMN4M4qSfuJ0t/view?usp=sharing <br>
-**ЯндексДиск:** https://disk.yandex.ru/i/XGQ_HGKpZ3v8Gg
+Находится в папке `demos` под названием [**DiplomMaster.pdf**](demos/DiplomMaster.pdf) или <br>
+[**Google Disk**](https://drive.google.com/file/d/1KFjnYAO5VP8tIxUtCWhuMN4M4qSfuJ0t/view?usp=sharing) <br>
+[**ЯндексДиск**](https://disk.yandex.ru/i/XGQ_HGKpZ3v8Gg)
 
 ## Результаты компьютерного моделирования
 
 В первом примере вносились случайные искажения положения одной камеры относительно другой (вблизи истинного положения камеры) с амплитудой 8 мм для линейных смещений и 1.6° для вращения. Heading – вращения вокруг оси X, attitude – вокруг оси Z, bank – вокруг оси Y.
 
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/3.png" width="800" />
+<img src="demos/3.png" width="800" />
 </p>
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/3_1.png" width="600" /> 
+<img src="demos/3_1.png" width="600" /> 
 </p>
 
 Во втором примере вносились линейные смещения вдоль оси X. Расчёт с шагом 0,1 мм.
 
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/1.png" width="800" />
+<img src="demos/1.png" width="800" />
 </p>
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/1_1.png" width="600" /> 
+<img src="demos/1_1.png" width="600" /> 
 </p>
 
 В третьем примере вносились искажения во вращение вокруг оси X – heading. Расчёт с шагом 0,02°.
 
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/2.png" width="800" />
+<img src="demos/2.png" width="800" />
 </p>
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/2_1.png" width="600" /> 
+<img src="demos/2_1.png" width="600" /> 
 </p>
 
 ## Выводы
@@ -56,7 +56,7 @@
 *1 – неподвижная камера; 2 – подвижная камера; 3 – 3-х координатный позиционер; 4 – штатив для камер; <br>5 – объект измерения; 6 – лазерная измерительная установка; 7 – 2-х координатный позиционер лазера; <br>8 – сервоприводы для деформации поверхности объекта; 9 – дополнительное освещение*
 
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/ExSystem.png" width="600" />
+<img src="demos/ExSystem.png" width="600" />
 </p>
 
 Начало отсчёта координат соответствует камере 1, но для удобства на фото выше система координат изображена на 2-ой камере.
@@ -64,28 +64,28 @@
 Первая форма поверхности.
 
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/Ex1.png" width="600" />
+<img src="demos/Ex1.png" width="600" />
 </p>
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/Ex1_1.png" width="800" /> 
+<img src="demos/Ex1_1.png" width="800" /> 
 </p>
 
 Вторая форма поверхности.
 
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/Ex2.png" width="600" />
+<img src="demos/Ex2.png" width="600" />
 </p>
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/Ex2_1.png" width="800" /> 
+<img src="demos/Ex2_1.png" width="800" /> 
 </p>
 
 Третья форма поверхности.
 
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/Ex3.png" width="600" />
+<img src="demos/Ex3.png" width="600" />
 </p>
 <p float="left">
-<img src="https://github.com/Stergrim/Recalibration-of-a-stereo-pair-based-on-a-reprojection-error/blob/main/demos/Ex3_1.png" width="800" /> 
+<img src="demos/Ex3_1.png" width="800" /> 
 </p>
 
 ## Выводы
